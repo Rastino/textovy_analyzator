@@ -1,3 +1,3 @@
 # textovy_analyzator
 
-ahoj skúška
+Hotový projekt na otestovanie
